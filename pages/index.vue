@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4 mt-4">
+  <div class="container max-w-screen-lg mx-auto px-4 mt-4 mb-20">
     <div>
       <h1 class="sm:text-5xl text-2xl font-bold">
         Traust og tjáning
@@ -10,7 +10,7 @@
 
       <div>
 
-        <div class="float-right ml-4 my-2 h32 border rounded w-1/3 p-6">
+        <div class="w-full md:float-right md:ml-4 mb-4 md:mb-2 h32 border rounded md:w-1/3 p-6">
           Námskeiðið er sex vikur og er kennt einu sinni í viku. Verð til 1. júlí er á sérstöku tilboði, aðeins <strong>29.990 krónur</strong>.
 
           <button class="display bg-blue-600 text-white font-bold py-4 mt-4 rounded w-full">Skráning</button>
@@ -43,10 +43,10 @@
 
         <p>Í lokin læt ég ykkur hafa skýrt módel sem byggir á fyrirkomulagi námskeiðsins og þá getið þið notað það hvenær sem er og jafnvel fengið fleiri í lið með ykkur.</p>
 
-        <blockqoute>
-          „Hugsum stórt en hlúum að því smáa.“
+        <blockqoute class="block mx-auto w-full max-w-lg my-12">
+          <span class="block text-3xl font-bold">„Hugsum stórt en hlúum að því&nbsp;smáa.“</span>
  
-​          <cite>Ken Robinson uppeldisgúru og leiklistarkennari</cite>
+​          <cite class="float-right">&mdash; Ken Robinson uppeldisgúru og leiklistarkennari</cite>
 
         </blockqoute>
       </div>
