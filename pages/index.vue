@@ -26,18 +26,22 @@
 
         <p>Ég býð upp á leiklistartíma þar sem fyrstu skrefin eru tekin í gegnum netið til að byrja með en svo stefni ég að því að nemendur komi til mín í „raunheiminum“.  </p>
 
-        <p>Á átta til tíu klukkutíma námskeiði kenni ég börnum og fullorðnum að iðka leiklist saman og verða sjálfbjarga. Fullorðna fólkið kennir börnunum rammann; reglur, tími, skipulag, og börnin kenna þeim fullorðnu að leika sér, að skapa frá hjartanu, tjá sig. Ég kem með módelið til ykkar, kenni ykkur á það, skil það eftir og svo er hægt að koma <p>á framhaldsnámskeið að nokkrum vikum eða mánuðum liðnum.</p>
+        <p>Á átta til tíu klukkutíma námskeiði kenni ég börnum og fullorðnum að iðka leiklist saman og verða sjálfbjarga. Fullorðna fólkið kennir börnunum rammann; reglur, tími, skipulag, og börnin kenna þeim fullorðnu að leika sér, að skapa frá hjartanu, tjá sig. Ég kem með módelið til ykkar, kenni ykkur á það, skil það eftir og svo er hægt að koma á framhaldsnámskeið að nokkrum vikum eða mánuðum liðnum.</p>
 
-        <p>Lærið að búa til leikrit.</p>
-        <p>Lærið að leika ykkur saman.</p>
-        <p>Lærið að skemmta ykkur og skapa í leiðinni.</p>
-        <p>Lærið að tala skýrar og miðla leiknum til áhorfenda.</p>
+        <div class="grid grid-cols-2 gap-4 italic my-8">
+          <p>Lærið að búa til leikrit.</p>
+          <p>Lærið að leika ykkur saman.</p>
+          <p>Lærið að skemmta ykkur og skapa í leiðinni.</p>
+          <p>Lærið að tala skýrar og miðla leiknum til áhorfenda.</p>
+        </div>
 
-        <p>Eftir námskeiðið hafið þið lært að:</p>
+        <div class="mb-8">
+          <h2 class="font-bold mb-4 text-xl">Eftir námskeiðið hafið þið lært að:</h2>
 
-        <p>Spinna út frá fyrirframgefnum aðstæðum.</p>
-        <p>Tala skýrar og miðla til áhorfenda.</p>
-        <p>Búa til leikþátt frá grunni og sýna.</p>
+          <p>Spinna út frá fyrirframgefnum aðstæðum.</p>
+          <p>Tala skýrar og miðla til áhorfenda.</p>
+          <p>Búa til leikþátt frá grunni og sýna.</p>
+        </div>
 
         <p>Þú skráir þig á námskeið með eitt eða tvö börn, fimm ára og eldri, með þér.  Námskeiðið stendur í tvær til þrjár vikur, tvisvar  til þrisvar í viku. Ég legg inn efnið, fyrirkomulag og æfingar, í fyrsta tímanum, en þið verðið með mér á zoomi, teems eða jitsi, og þið æfið ykkur heima þar til næst. Þá legg ég inn fleiri æfingar og þið sýnið mér.  Ég læt ykkur búa til leikþátt og svo æfið þið ykkur að búa til leikþætti heima og þannig gengur þetta áfram.</p>
 
