@@ -63,8 +63,8 @@
 <script>
 
 export default {
-  components: {
-    
+  head: {
+    titleTemplate: 'Traust og tjáning – Leiklistarnámskeið fyrir börn og fullorðna saman',
   }
 }
 </script>
